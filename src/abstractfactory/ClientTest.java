@@ -14,7 +14,6 @@ public class ClientTest {
 		Phone midRangePhone = midRangeFactory.getPhone();
 		System.out.println(midRangeLaptop.getSegment());
 		System.out.println(midRangePhone.getSegment());
-		
 	}
 	
 }
